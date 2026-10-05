@@ -1,0 +1,6 @@
+{
+  "name": "SafeForge AI - Industrial Safety Intelligence",
+  "description": "Predict Risk. Prevent Incidents. AI-powered industrial safety intelligence, computer vision detection, explainable risk scoring, and predictive prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
